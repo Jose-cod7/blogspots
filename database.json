@@ -1,0 +1,29 @@
+[{
+        "id": 1,
+        "date": "2020/08/01",
+        "author": "Pepe",
+        "title": "Interesting post",
+        "content": "This is my first post :)"
+    },
+    {
+        "id": 2,
+        "date": "2020/12/07",
+        "author": "Eduard",
+        "title": "No so interesting post",
+        "content": "This is my second post :|"
+    },
+    {
+        "id": 3,
+        "date": "2020/10/03",
+        "author": "Martin",
+        "title": "Boring post",
+        "content": "This is my third post :x"
+    },
+    {
+        "date": "2020/10/03",
+        "author": "Marina",
+        "title": "COVID 19",
+        "content": " MEASURES",
+        "id": 4
+    }
+]
